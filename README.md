@@ -7,7 +7,7 @@ other out-of-the-box PHP frameworks such as Yii2 or Laravel because it doesn't h
 for specific tasks, instead it only has basic SPA functionality, PJAX, PSR-4 autoloading (via composer) and some basic
 tools for general tasks.
 
-You may notice that the directory [`/core`](#_rootcore_), which is the PSPA core, is located directly in the files, so
+You may notice that the directory [`/core`](#rootcore), which is the PSPA core, is located directly in the files, so
 this means that it's not just read-only files, you can improve, replace, add new features right there. You can use the
 standard build or create your own framework by adding different tools to the core.
 
