@@ -166,8 +166,8 @@ E.g. **Base**Controller.php (action**Index**) –> /views/**base**/**index**.php
 I'm not greedy enough to ask you to donate to such a young product. The best thing you can do is to share your thoughts
 if you know how to improve it or distribute it better.
 
-Optional: I would be happy if you would post Powered by budget in the Readme if you used PSPA for your project. Simply
-copy the code below into your Readme.
+Optional: I would be happy if you would post the "Thanks to" badge in the Readme if you used PSPA for your project. Just
+copy the code below into the Readme.
 
 ```
 [![PSPA](https://img.shields.io/badge/Thanks%20to-PSPA-brightgreen)](https://github.com/khasandesign/pspa)
